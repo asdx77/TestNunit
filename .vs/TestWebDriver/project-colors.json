@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcad57e2-8e87-4c0f-83b8-9a412e2338ea": {
+      "ProjectGuid": "dcad57e2-8e87-4c0f-83b8-9a412e2338ea",
+      "DisplayName": "TestWebDriver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
